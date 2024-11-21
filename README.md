@@ -10,7 +10,7 @@ I implement nanogpt from scratch using low level code in pytorch. I'll be taking
 
 1. https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=EDarxEWIRMKq
 2. https://www.youtube.com/watch?v=kCc8FmEb1nY&t=18s
-3. [Prof. Eranti's Lecture, CMPE 297] (https://docs.google.com/presentation/d/1fk8QlODYkBTTH4ftw8M7Sw_tmhJa8KB97s7dYP6s4mI/edit#slide=id.g24535d0c6d4_0_178)
+3. [Prof. Eranti's Lecture, CMPE 297](https://docs.google.com/presentation/d/1fk8QlODYkBTTH4ftw8M7Sw_tmhJa8KB97s7dYP6s4mI/edit#slide=id.g24535d0c6d4_0_178)
 
 ## The "Textbooks are all you need" Case Study
 I implement a "textbooks are all you need" case study with a book of my choice. The goal is to train a model to understand the book using the colab A100 environment, using a smaller amount of data to be able to train on a single GPU and using ChatGPT-4s code interpreter abilities.
