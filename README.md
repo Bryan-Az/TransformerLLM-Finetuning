@@ -8,6 +8,8 @@ I implement nanogpt from scratch using low level code in pytorch. I'll took help
 
 [Link to the Medium Article](https://medium.com/@alexyszam/what-i-learned-building-a-mini-gpt-transformer-model-e11027f1190d)
 
+[Link to the Video Presentation](https://youtu.be/csVbr91M6R8)
+
 ### References
 
 1. https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=EDarxEWIRMKq
