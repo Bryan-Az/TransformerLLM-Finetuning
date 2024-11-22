@@ -17,7 +17,7 @@ I implement nanogpt from scratch using low level code in pytorch. I'll took help
 3. [Prof. Eranti's Lecture, CMPE 297](https://docs.google.com/presentation/d/1fk8QlODYkBTTH4ftw8M7Sw_tmhJa8KB97s7dYP6s4mI/edit#slide=id.g24535d0c6d4_0_178)
 
 ## The "Textbooks are all you need" Case Study
-I implement a "textbooks are all you need" case study with a book of my choice. The goal is to train a model to understand the book using the colab A100 environment, using a smaller amount of data to be able to train on a single GPU and using ChatGPT-4s code interpreter abilities.
+I implement a "textbooks are all you need" case study with a book of my choice. The goal is to evaluate the 'jinaai/starcoder-1b-textbook' pre-trained model in its' ability to understand and problem solve coding problems using examples taken from a book on C#. I'll be finetuning this model using this textbook (a reasonably smaller amount of data) to be able to train on a single GPU and using ChatGPT-4s code interpreter abilities.
 
 
 ### References 
