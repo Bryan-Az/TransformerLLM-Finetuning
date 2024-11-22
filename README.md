@@ -4,7 +4,9 @@ In this repo, I experiment with the transformer LLM architecture by finetuning N
  
 
 ## NanoGPT from Scratch
-I implement nanogpt from scratch using low level code in pytorch. I'll be taking help from a code interpreter / gpt4 plugin. The code is modular, available in colab and has debug functionality. The result of this section will be summarized within a medium article. The model will be evaluated on its ability to handle input and make inference with a short video presentation.
+I implement nanogpt from scratch using low level code in pytorch. I'll took help from a code interpreter / gpt4 plugin. The code is modular, available in colab and has debug functionality. The result of this section is summarized within a medium article. The model is evaluated on its ability to handle input and make inference with a short video presentation.
+
+[Link to the Medium Article](https://medium.com/@alexyszam/what-i-learned-building-a-mini-gpt-transformer-model-e11027f1190d)
 
 ### References
 
